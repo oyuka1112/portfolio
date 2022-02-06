@@ -1,3 +1,3 @@
 # Potrfolio
-Hello This is my website
+Hello! This is my website.
 To see please [click here]()
